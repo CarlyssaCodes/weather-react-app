@@ -8,11 +8,11 @@ export default function Weather() {
         <p>
           {" "}
           20
-          <a href="#" className="celsius">
+          <a href="index.js" className="celsius">
             ℃
           </a>{" "}
           |
-          <a href="#" className="farenheit">
+          <a href="index.js" className="farenheit">
             ℉
           </a>
         </p>
