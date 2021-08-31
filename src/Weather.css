@@ -1,0 +1,6 @@
+.weather p {
+  color: #000014;
+  line-height: 12px;
+  font-family: "Anton", sans-serif;
+  text-transform: capitalize;
+}

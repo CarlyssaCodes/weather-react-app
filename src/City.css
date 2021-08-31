@@ -1,0 +1,10 @@
+.city p,
+.city h2 {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+}
+
+.city h2 {
+  font-size: 45px;
+  margin: 25px 0 25px 0;
+}
