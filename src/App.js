@@ -12,7 +12,12 @@ export default function App() {
         <City />
         <Weather />
       </div>
-      <p>Open-source coded by Carlyssa Pierre</p>
+      <p>
+        This project was coded by Carlyssa Pierre, and it is{" "}
+        <a href="https://github.com/CarlyssaCodes/weather-react-app">
+          open-sourced
+        </a>
+      </p>
     </div>
   );
 }
